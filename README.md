@@ -1,4 +1,5 @@
-# Real-Time PanGIA	![](PanGIA/images/PanGIA_logo.jpg)
+# Real-Time PanGIA	
+![](images/PanGIA_logo.jpg)
 
 An implementation of the original PanGIA metagenomics taxonomy classifier, designed for real-time sequencing on ONT's nanopore-based sequencing platforms.
 
